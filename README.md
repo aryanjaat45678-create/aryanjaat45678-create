@@ -4,7 +4,7 @@
 
 ### 🎓 B.Tech CSE (Artificial Intelligence) | 3rd Year Student | MIET
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Flutter+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
 
 <img src="https://komarev.com/ghpvc/?username=aryanjaat45678-create&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
