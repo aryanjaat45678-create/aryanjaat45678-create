@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanjaat45678-create/aryanjaat45678-create/refs/heads/main/banner.png" alt="Banner" width="100%">
+</p>
 <div align="center">
 
 # Hi 👋, I'm Aryan Choudhary
