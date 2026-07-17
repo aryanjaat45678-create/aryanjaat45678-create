@@ -100,7 +100,7 @@ To become an AI Engineer and build innovative, real-world applications that make
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryanjaat45678-create&theme=algolia&row=1&column=7&no-frame=true"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png"/>
 
 </p>
 
